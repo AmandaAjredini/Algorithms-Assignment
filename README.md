@@ -1,5 +1,5 @@
 # Algorithms-Assignment
-My assignment for algorithms module detailing the works of Depth First Search, Breadth First Search, Dijkstra's SPT &amp; Prim's MST in Java.
+My assignment for algorithms module detailing the works of Depth First Search, Breadth First Search, Dijkstra's SPT &amp; Prim's MST in Java. It was implemented using Adjacency Lists - a graph representation where each vertex stores a list of its adjacent (connected) vertices.
 
 ## Depth First Search
 DFS was completed recursively using Cormen's pseudocode and idea of using colours to mark visited vertices and edges.
